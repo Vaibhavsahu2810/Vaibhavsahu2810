@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Decentralized language learning app<br>👯 I’m currently collaborating in Fossology,Dhiway(cord),nightwatch.js<br>🌱 I’m currently learning solana development<br>💬 Ask me about Backend , web3 Development<br>⚡ Fun fact : I never stop exploring things
-
+🔭 I’m currently working on Decentralized language learning app<br>👯 I’m currently collaborating in Fossology,Dhiway(cord),nightwatch.js<br>🌱 I’m currently learning solana development<br>💬 Ask me about Backend , web3 Development<br>⚡ Fun fact : I always want to see what else is out there.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-sahu-93664a28a/)

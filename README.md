@@ -1,7 +1,6 @@
 <h1 align="center">🙌🏻 Hey there, I am Vaibhav Sahu</h1>
 
 <p align="center">https://vaibhav-sahu.vercel.app/</p>
-<img align="center" src="https://komarev.com/ghpvc/?username=Vaibhavsahu2810&label=My+Visitors&color=blueviolet">
 
 <h3>📌&nbsp&nbspAbout me </h3>
 

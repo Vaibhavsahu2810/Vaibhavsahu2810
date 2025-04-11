@@ -11,7 +11,9 @@
 - 💬 Ask me about Backend, Web3, or anything tech—I’d love to chat!  
 - ⚡ Fun fact: I always want to see what else is out there.  
 - 📫 Email me at sahusv4527@gmail.com
-
+### 🏅 Trophies & Achievements:
+- 🏆 **First prize in the Zero-Trust Hackathon**: secured 1st place among 83 teams at Kshitij, IIT Kharagpur, by developing cutting-edge zero-trust blockchain and cloud solutions.
+- 🏅 **East India Blockchain Summit**: Got special mention and prices at EIBS 2025.
 <hr/>
 <h3>📌&nbsp&nbspTechnologies I've used & 🤹 Skills I've acquired </h3>
 <br>
